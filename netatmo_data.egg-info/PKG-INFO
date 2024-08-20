@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: netatmo_data
+Version: 0.1.0
+Summary: A library to fetch Netatmo weather data
+Home-page: https://github.com/yourusername/netatmo_data
+Author: Adeniran Ibrahim
+Author-email: ibademola@yahoo.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: requests
